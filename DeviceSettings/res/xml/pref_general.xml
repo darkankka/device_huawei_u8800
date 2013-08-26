@@ -1,0 +1,7 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.cyanogenmod.settings.device.VibratorPreference
+            android:key="vibrator_intensity"
+            android:title="@string/pref_vibrator_title" />
+
+</PreferenceScreen>
